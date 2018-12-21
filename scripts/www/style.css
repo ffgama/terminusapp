@@ -1,0 +1,88 @@
+body {
+  font: 12px sans-serif;
+ font-color:black;
+}
+
+.GeneralContent{
+  margin-top: 130px;
+}
+
+div.span7 {
+  width: 100%;
+}
+
+div.span7 div.col-sm-8{
+  width: 100%;
+  height: auto;
+}
+
+div.span7 div.col-sm-8 div.row div.col-sm-6 div#flare{
+  height: auto;
+  line-height: 1000px;
+  text-align: center;
+}
+
+div.span7 div.col-sm-8 div.row div.col-sm-6 div#flare svg{
+  display: inline-block;
+  vertical-align: middle;
+  line-height: normal;
+}
+
+.contentFlare{
+  width:100%; 
+  height:auto; 
+}
+
+
+div.span7 div.col-sm-8 div.row div.col-sm-6 div#paper_year{
+  height: auto;
+  line-height: 1000px;
+  text-align: center;
+}
+
+
+div.span7 div.col-sm-8 div.row div.col-sm-6 div#paper_year img{
+    display: inline-block;
+    vertical-align: middle;
+    line-height: normal;
+}
+
+#titleDivHelp{
+  width: 100%; 
+  height: auto; 
+  background: #eaeaea;
+  margin-top: 20px;
+}
+
+#imgIcon{
+  float:left;
+}
+#imgIcon h2{
+  position: relative;
+}
+
+.wrapperSubTitle{
+  width: 100%;
+  height: auto;
+  margin: 0 auto;
+  margin-top: 10px;
+  border: 1px solid #565656;
+
+}
+
+.wrapperSubTitle h4{
+  font-weight: bold;
+  margin-top: 10px;
+}
+
+.contentResponse{
+  width: 100%;
+  height: auto;
+  display: block;
+  margin-top: 15px;
+}
+
+.contentResponse span p{
+  font: 16px sans-serif;
+  color:#0085D9;
+}
