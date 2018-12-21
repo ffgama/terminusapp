@@ -1,6 +1,6 @@
 # terminusapp
 
-Project: Extracting knowledge from pubmed articles
+PROJECT: EXTRACTING KNOWLEDGE FROM PUBMED ARTICLES
 
 
 Terminus app (v.1.0) is a data extraction and analysis application (more specifically paper abstracts) from pubmed databases. 
